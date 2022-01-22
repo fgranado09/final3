@@ -10,11 +10,19 @@ p {
 
 body {
   background-color: #ededed;
-  background: linear-gradient(to right, #095e36, #13f1b9);
+  background: linear-gradient(to right, #000201, #646867);
 }
 
 h2 {
   text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  color: #ededed;
+}
+
+.letrafont {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  color: #ededed;
 }
 
 .card-group .card img {

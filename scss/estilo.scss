@@ -27,11 +27,18 @@ p{
 }
 body{
     background-color: $color;
-    background: -webkit-linear-gradient(to right, #96f519, #235c0d);
-    background: linear-gradient(to right, #095e36, rgb(19, 241, 185)); 
+    background: -webkit-linear-gradient(to right, #0a0e06, #050e01);
+    background: linear-gradient(to right, #000201, rgb(100, 104, 103)); 
 }
 h2{
     text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    color: $color
+} 
+.letrafont{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: $color;
 }
 .card-group{
     .card{
