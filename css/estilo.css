@@ -14,37 +14,17 @@ body {
   background: linear-gradient(to right, #000201, #646867);
 }
 
-h2 {
-  text-align: center;
-  font-family: 'Permanent Marker', cursive;
-  color: #ededed;
-}
-
-.letrafont {
-  font-family: 'Permanent Marker', cursive;
-  text-align: center;
-  color: #ededed;
-}
-
 .card-group .card img {
   width: 50%;
   height: 50%;
 }
 
 .error {
-  background: #dedede;
+  background: #ededed;
 }
 
 .page-wrap {
   min-height: 100vh;
-}
-
-nav .nav justify-content-center .nav-item a {
-  color: #0000;
-}
-
-nav .nav justify-content-center .nav-item a a:hover {
-  color: #f77206;
 }
 
 .contacto {
@@ -182,6 +162,26 @@ span {
 .formulario textarea:focus {
   outline: 0;
   border: 1px solid #97d848;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  color: #ededed;
+}
+
+.letrafont {
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  color: #ededed;
+}
+
+nav .nav justify-content-center .nav-item a {
+  color: #0000;
+}
+
+nav .nav justify-content-center .nav-item a a:hover {
+  color: #f77206;
 }
 
 .footer-style {
